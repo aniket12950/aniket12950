@@ -78,7 +78,7 @@ Passionate full-stack developer working with frontend, backend, and modern frame
 </p>
 
 <h3 align="left">🔥 GitHub Stats</h3>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket12950" alt="aniket12950" />
+  <img src="https://streak-stats.demolab.com?user=aniket12950" alt="aniket12950" />
 </p>
+
