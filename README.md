@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Aniket Pawar</h1>
 <h3 align="center">Passionate full-stack developer working with frontend, backend, and modern frameworks, with a strong focus on problem-solving.</h3>
 
