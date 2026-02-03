@@ -71,12 +71,14 @@ Passionate full-stack developer working with frontend, backend, and modern frame
 
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">🔥 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket12950&show_icons=true&theme=github-dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aniket12950&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket12950&layout=compact&theme=github-dark" />
+  <img src="https://ghchart.rshah.org/aniket12950" />
 </p>
+
+
