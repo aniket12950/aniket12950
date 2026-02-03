@@ -4,14 +4,8 @@
 Passionate full-stack developer working with frontend, backend, and modern frameworks, with a strong focus on problem-solving.
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aniket12950&label=Profile%20views&color=0e75b6&style=flat" alt="aniket12950" />
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="twitter" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniket12950&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="aniket12950" />
 </p>
 
 <h3 align="left">👨‍💻 About Me</h3>
@@ -31,7 +25,7 @@ Passionate full-stack developer working with frontend, backend, and modern frame
 
 <p align="left">
   <a href="https://linkedin.com/in/aniket-pawar-2787202b2" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
@@ -77,10 +71,12 @@ Passionate full-stack developer working with frontend, backend, and modern frame
 
 </p>
 
-<h3 align="center">🔥 GitHub Streak Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aniket12950&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniket12950&show_icons=true&theme=github-dark" />
 </p>
 
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket12950&layout=compact&theme=github-dark" />
+</p>
