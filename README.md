@@ -50,36 +50,40 @@
 
 <hr/>
 
-<!-- ======================= SKILLS ======================= -->
-<h2 align="left">🛠 Languages & Tools</h2>
+<!-- ======================= SKILLS ======================= --><h2 align="left">🛠 Languages & Tools</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel"/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb"/>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws"/>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn"/>
-  <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv"/>
+  <!-- Data Science -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 <hr/>
